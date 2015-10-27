@@ -3,7 +3,7 @@
 //  XBCheater
 //
 //  Created by Cory on 6/23/15.
-//  Copyright (c) 2015 Bionware Technologies All rights reserved.
+//  Copyright (c) 2015 Cory Forward All rights reserved.
 //
 
 import Foundation
